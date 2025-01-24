@@ -7,6 +7,11 @@ public class JavaTemelleri {
         // ana method budur her şey burdan çalıştırılır psvm yazarsan direk bunu oluşturur
         System.out.println("Hello java"); // sout yazınca çıkar
 
+        /* Çoklu
+        yorum
+        satırı
+         */
+
         // Variables
         System.out.println("---Degiskenler---");
 
